@@ -1,6 +1,7 @@
-/vendor
-/node_modules
-/public/storage
-Homestead.yaml
-Homestead.json
-.env
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
